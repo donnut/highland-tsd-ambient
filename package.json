@@ -1,0 +1,15 @@
+{
+  "name": "retyped-highland-tsd-ambient",
+  "description": "TypeScript typings for highland",
+  "version": "1.14.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/highland-tsd-ambient",
+  "typescript": {
+    "definition": "highland.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
